@@ -1,0 +1,18 @@
+112233 Saeed 60
+901202 Ali  10
+429112  Salam 29
+
+881239            Muhammad 35
+776922 Rasheed   63
+238173 Assadi 19
+472310   Fahd  12
+356214  Samer 21
+
+346721 Hussin    55
+567342    Rabi      23
+938423  Morad   14
+872383  Salem  9
+837612 Ihab 17
+759321   Maisa  80
+667162  Alaa  72
+288001  Samar  3
