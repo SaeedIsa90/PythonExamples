@@ -1,0 +1,7 @@
+{
+"students": [
+	{"Name": "Saeed", "Grade": 100},
+	{"Name": "Salam", "Grade": 99}
+	],
+"Class": "Math"
+}
